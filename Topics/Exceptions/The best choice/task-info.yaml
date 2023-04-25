@@ -1,0 +1,20 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    print("What would I watch tonight?")
+
+    # declare the variable before using it
+    ...
+
+    # any answer will do, since heart knows no law
+    my_answer = fave_tv_show
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7185#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 24 Apr 2023 14:38:13 UTC"
+record: -1
+submission_language: python3
